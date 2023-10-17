@@ -80,7 +80,7 @@ Vamos verificar se, as análises inicias conferem com as análises finais.
 
  ### H2. Lojas com competidores mais próximos deveriam vender menos.
  **FALSA** : Lojas com COMPETIDORES MAIS PRÓXIMOS vendem MAIS.
-![](image/4.3.6.1.png)
+![](image/4.1.4.png)
 
 ### H8. Lojas abertas durante o feriado de Natal deveriam vender mais.
 **FALSA**: Lojas abertas durante o feriado do NATAL vendem MENOS.
