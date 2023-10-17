@@ -91,7 +91,7 @@ Vamos verificar se, as análises inicias conferem com as análises finais.
 ![](image/4.3.15.png)
 
 ### Resumo das hipóteses
-![](image/4.3.15.png)
+![](image/9.1.png)
 
 ## 6 Análise Multivariada
 ### Atributos numéricos
@@ -115,7 +115,7 @@ Essas são as métricas e os modelos escolhidos para a análise, e os melhores c
 ![](image/10.5.png)
 
 ### Machine Learning Performance
-![](image/4.3.15.png)
+![](image/9.0.png)
 
 ## 9. Próximos passos
 - Workshop do Modelo para os  Business Users
