@@ -49,9 +49,78 @@ Temos inicialmente um dataset de 1.017.209 linhas x 18 colunas para trabalharmos
 Essas são as primeiras impressões descritivas dos dados.
 ![](image/2.0.png)
 
-    
-    
-    
-    
-    
+### Mapa Mental de Hipóteses
+
+Utilizamos um mapa mental de hipóteses para temos um guia para a análise e exploração de fenômenos durante as análises exploratórias.
+
+![](image/DAILY_STORE_SALES.png)
+
+## 4 Análise Exploratória de Dados
+
+## Variável Resposta
+
+Distribuição da vida de cada loja, o quanto elas vendem ao longo de sua vida.
+![](image/4.1.1.png)
+
+## Variáveis numéricas
+Distribuição geral de algumas variáveis numéricas, mostrando alguns insights.
+![](image/4.1.2.png)
+
+ ## Variáveis Categóricas
+ Mostram algumas métricas de datas comuns e comemorativas, como natal, e do lado o volume de vendas comparadas aos outras datas.
+ ![](image/4.1.3.png)
+
+## 5 Validação das hipóteses
+
+Vamos verificar se, as análises inicias conferem com as análises finais.
+
+### H1. Lojas com maiores sortimentos deveriam vender mais.
+**FALSA** : Lojas com o MAIOR SORTIMENTO vendem MENOS.
+![](image/4.2.png)
+
+ ### H2. Lojas com competidores mais próximos deveriam vender menos.
+ **FALSA** : Lojas com COMPETIDORES MAIS PRÓXIMOS vendem MAIS.
+![](image/4.3.6.1.png)
+
+### H8. Lojas abertas durante o feriado de Natal deveriam vender mais.
+**FALSA**: Lojas abertas durante o feriado do NATAL vendem MENOS.
+![](image/4.3.12.png)
+
+### H11. Lojas deveriam vender mais depois do dia 10 de cada mês.
+**Verdadeira** : Lojas vendem mais depois do dia 10 de cada mês.
+![](image/4.3.15.png)
+
+### Resumo das hipóteses
+![](image/4.3.15.png)
+
+## 6 Análise Multivariada
+### Atributos numéricos
+![](image/4.3.18.png)
+
+### Atributos categóricos
+![](image/4.3.19.png)
+
+## 7. Machine Learning Modelling
+Essas são as métricas e os modelos escolhidos para a análise, e os melhores colocados.
+![](image/4.3.21.png)
+
+## 8. Conclusão & Demonstração
+
+### Tradução e interpretação do erro
+
+### Business Performance
+![](image/4.3.15.png)
+
+![](image/9.0.png)
+
+### Total Performance
+![](image/4.3.15.png)
+
+### Machine Learning Performance
+![](image/4.3.15.png)
+
+## 9. Próximos passos
+- Workshop do Modelo para os  Business Users
+- Coletar Feedbacks sobre a Usabilidade
+- Aumentar em 10% a Acurácia do Modelo  
     
