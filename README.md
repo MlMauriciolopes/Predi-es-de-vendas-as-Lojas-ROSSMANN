@@ -102,19 +102,17 @@ Vamos verificar se, as análises inicias conferem com as análises finais.
 
 ## 7. Machine Learning Modelling
 Essas são as métricas e os modelos escolhidos para a análise, e os melhores colocados.
-![](image/4.3.21.png)
+![](image/10.3.png)
 
 ## 8. Conclusão & Demonstração
 
 ### Tradução e interpretação do erro
 
 ### Business Performance
-![](image/4.3.15.png)
-
-![](image/9.0.png)
+![](image/10.4.png)
 
 ### Total Performance
-![](image/4.3.15.png)
+![](image/10.5.png)
 
 ### Machine Learning Performance
 ![](image/4.3.15.png)
